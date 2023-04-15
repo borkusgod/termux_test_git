@@ -1,0 +1,6 @@
+this is where I will make a template file that will help beginners create
+their file and folder structure. It will create the files natively inside
+of termux and then with a separate command copy and paste the files into
+the Pydroid3 native directory. this will make it easier to use Pydroid3 as an
+editor given that it's easier on the eyes and also so you can run the native
+terminal because it cannot run files that reside outside of it's own directory
